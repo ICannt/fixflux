@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fixflux",
+  "name": "Fix issue with sponge and flux",
+  "description": "Fixes an issue between flux networks and sponge",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Courtney"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [fluxnetworks]
+}
+]
